@@ -1,5 +1,5 @@
 # like_wanko
-Twitterのいいねボタンをわんこボタンに変えるChrome Extensionです。
+Twitterのいいねボタンをわんこボタンに変えるChrome Extensionです。  
 ![icon](wanko.png)  
 
 
