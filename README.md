@@ -3,9 +3,9 @@ Twitterのいいねボタンをわんこボタンに変えるChrome Extensionで
 ![icon](wanko.png)  
 
 
-こちら参考に作らせていただきました。
-https://github.com/mzyy94/like2sushi
-導入方法もそちらにあります！
+こちら参考に作らせていただきました。  
+https://github.com/mzyy94/like2sushi  
+導入方法もそちらにあります！  
 
 
 ## LICENSE
